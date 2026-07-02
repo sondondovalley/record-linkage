@@ -1,0 +1,6 @@
+preliminary_confidence_level,manual_label,count
+high_confidence_candidate,match,500
+low_confidence_candidate,not_match,500
+medium_confidence_candidate,match,236
+medium_confidence_candidate,not_match,24
+medium_confidence_candidate,uncertain,240
