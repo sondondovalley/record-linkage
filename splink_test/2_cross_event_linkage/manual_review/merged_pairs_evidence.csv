@@ -1,0 +1,103 @@
+match_probability,match_weight,persona_idno_l,persona_idno_r,name_l,name_r,lastname_l,lastname_r,gender_clean_l,gender_clean_r,birth_date_l,birth_date_r,birth_place_l,birth_place_r
+0.9997,11.606175251505313,persona-30011,persona-30165,maría narcisa,maría narcisa,abregú,abregú,female,female,,,,
+0.9995,11.021212750784157,persona-7401,persona-7415,maria ancelma,maria ancelma,mavila,mavila,female,female,,,,
+0.9992,10.284247156617951,persona-29002,persona-29012,jose ma maria,jose ma maria,muños,muños,male,male,,,,
+0.9992,10.222877570099108,persona-22799,persona-22823,innoto,innoto,innoto,innoto,,,,,,
+0.999,10.021212750784157,persona-2005,persona-2420,benito joseph,benito joseph,tipe,tipe,male,male,,,,
+0.9988,9.676602767522503,persona-12108,persona-12112,brijida,brijida,hualpatuero,hualpatuero,,,1902-10-07,1902-10-07,pampamarca,pampamarca
+0.9987,9.637915069377952,persona-15311,persona-45563,fructuosa,fructuosa,angula,angula,,,,1826-12-30,,lucanas
+0.9986,9.460150497897578,persona-42350,persona-42491,lauriana,lauriana,espinoza,espinoza,,,1867-11-09,1867-11-09,pampamarca,pampamarca
+0.9983,9.222877570099108,persona-16235,persona-16515,xisto h,xisto h,mora,mora,,,,,,
+0.9983,9.213857828726553,persona-31023,persona-41131,florencio,florencio,carrillo,carrillo,male,male,,1876-04-03,,huanta
+0.9983,9.162181451477702,persona-23353,persona-23365,leonidas,leonidas,yturbide,yturbide,male,male,1883-04-21,1884-04-21,aucará,aucará
+0.9981,9.021212750784157,persona-45724,persona-46771,celsa,celsa,jaime,jaime,female,female,,,,
+0.9981,9.021212750784157,persona-45724,persona-46525,celsa,celsa,jaime,jaime,female,female,,,,
+0.9981,9.021212750784157,persona-22857,persona-22873,bautista,bautista,rodal,rodal,male,male,,,,
+0.9981,9.021212750784157,persona-46525,persona-46771,celsa,celsa,jaime,jaime,female,female,,,,
+0.9981,9.003750721285712,persona-42926,persona-42959,julian,julian s,eysaguirre,eysaguirre,male,male,1858-06-28,1858-06-28,,ayacucho
+0.9979,8.90573553336422,persona-40233,persona-40319,arturo,arturo,vargas,vargas,male,male,1883-12-30,,,
+0.9979,8.900949475211746,persona-31600,persona-44863,concebido,concebido,chaucca,chaucca,,,1884-09-06,,chacralla,
+0.9979,8.891615658493354,persona-42534,persona-42620,ysabel,ysabel,davalos,davalos,,,1855-10-11,1855-10-11,mayo luren,mayo luren
+0.9978,8.851287749341845,persona-3116,persona-818,maria de las nieves,maria de las nieves,sapata,sapata,female,female,,,,
+0.9976,8.699284655896795,persona-33079,persona-33399,hortencia,hortencia,perez albela,perez albela,female,female,,,,
+0.9976,8.699284655896795,persona-33079,persona-33449,hortencia,hortencia,perez albela,perez albela,female,female,,,,
+0.9976,8.699284655896795,persona-33399,persona-33449,hortencia,hortencia,perez albela,perez albela,female,female,,,,
+0.9974,8.579021380324384,persona-21742,persona-42592,yndalicio,yndalicio,caseres,caseres,,,,1846-02-05,,
+0.9974,8.56178113214686,persona-31423,persona-31712,herminio,herminio,gallegos,gallegos,male,male,,,,
+0.9972,8.499497400286247,persona-30733,persona-31908,augusto,augusto,siancas,siancas,male,male,1890-07-01,1886-07-25,pampamarca,pampamarca
+0.9972,8.46799006793564,persona-12466,persona-12623,esequiel,esequiel,gerova,gerova,,,,,,
+0.9971,8.436250250063,persona-29911,persona-44360,mariano encarnación,mariano encarnación,barrera,barrera,male,male,,,,aucará
+0.9971,8.436250250063,persona-22669,persona-35920,antonina,antonina,aldoradin,aldoradin,female,female,,1858-07-17,,chipao
+0.997,8.373966518202387,persona-32699,persona-32827,sofía,sofía,cárdenas,cárdenas,female,female,1901-05-06,1899-08-20,aucará,aucará
+0.9969,8.31598697449059,persona-32181,persona-39858,alfonza,alfonza,congalla,congalla,,,,1878-10-19,,
+0.9968,8.28424715661795,persona-40923,persona-41047,prudencio,prudencio,r sotelo,r sotelo,male,male,,,,
+0.9968,8.28424715661795,persona-1222,persona-316,theresa,theresa,piña,piña,female,female,,,,
+0.9964,8.093594553154142,persona-12261,persona-14140,nasaria,nasaria,montero,montero,,,,,,
+0.9964,8.093594553154142,persona-12261,persona-16658,nasaria,nasaria,montero,montero,,,,,,
+0.9964,8.093594553154142,persona-14140,persona-16658,nasaria,nasaria,montero,montero,,,,,,
+0.9962,8.021212750784157,persona-26874,persona-26890,maria consepcion,maria consepcion,guitron,guitron,female,female,,,aucará,
+0.9962,8.021212750784157,persona-39936,persona-40012,oscar,oscar,bendesú,bendesú,male,male,,,,
+0.996,7.977671898906498,persona-30763,persona-31401,amalio,amalio,cusi,cusi,male,male,1890-07-25,1890-01-29,umasi,umasi
+0.9958,7.90573553336422,persona-30314,persona-46780,julio,julio,caballa,caballa,male,male,1891-04-11,,aucará,
+0.9957,7.851287749341844,persona-31375,persona-41359,ricardo,ricardo,arias,arias,male,male,,1876-10-13,,aucará
+0.9954,7.7634459514618115,persona-44136,persona-44267,zusana,zusana,camargo,camargo,,,,,,
+0.9952,7.710971645098332,persona-3011,persona-3082,maria santa,maria santa,cruz,cruz,female,female,1798-11-02,1798-11-02,,
+0.9952,7.699284655896794,persona-31920,persona-40953,prudencio,prudencio,roca sotelo,roca sotelo,male,male,,,,
+0.995,7.637915069377953,persona-32659,persona-46579,aguida,aguida,quintanilla,quintanilla,,,1901-03-06,,ayacucho,
+0.9948,7.583807438476859,persona-26457,persona-4790,sabina,sabina,guanaco,guanaco,female,female,,,,
+0.9947,7.5617811321468595,persona-30260,persona-45268,josefina,josefina,siancas,siancas,female,female,1885-02-22,,pampamarca,
+0.9945,7.492791401685418,persona-23345,persona-23357,sotera,sotera,gavilan,gavilan,,,1884-04-19,1884-04-08,aucará,aucará
+0.9944,7.476892234560347,persona-17232,persona-17421,saturno,saturno,bravo,bravo,male,male,,,,
+0.9943,7.452355212627866,persona-23349,persona-23361,senon,senon,mendosa,mendosa,,,1883-04-12,1884-04-06,aucará,aucará
+0.9943,7.436250250063001,persona-46092,persona-46641,nicasia,nicasia,canchari,canchari,female,female,,,,
+0.9942,7.415522648041504,persona-24351,persona-24719,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24363,persona-24738,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24363,persona-42913,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24738,persona-42913,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24719,persona-42913,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24351,persona-24359,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24719,persona-24738,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24359,persona-24719,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24359,persona-24363,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24351,persona-24363,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24363,persona-24719,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24359,persona-42913,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24351,persona-42913,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24359,persona-24738,anjelina,anjelina,manrique,manrique,,,,,,
+0.9942,7.415522648041504,persona-24351,persona-24738,anjelina,anjelina,manrique,manrique,,,,,,
+0.9938,7.335411000819948,persona-1150,persona-1154,maria manuela,maria manuela,barrientos,barrientos,female,female,1794-01-18,1794-01-18,,
+0.9936,7.28424715661795,persona-30786,persona-33009,eufemia,eufemia,cornejo de molina,cornejo de molina,female,female,,,,
+0.9936,7.28424715661795,persona-31244,persona-33009,eufemia,eufemia,cornejo de molina,cornejo de molina,female,female,,,,
+0.9936,7.28424715661795,persona-31244,persona-31623,eufemia,eufemia,cornejo de molina,cornejo de molina,female,female,,,,
+0.9936,7.28424715661795,persona-31623,persona-33009,eufemia,eufemia,cornejo de molina,cornejo de molina,female,female,,,,
+0.9936,7.28424715661795,persona-30786,persona-31244,eufemia,eufemia,cornejo de molina,cornejo de molina,female,female,,,,
+0.9936,7.28424715661795,persona-30786,persona-31623,eufemia,eufemia,cornejo de molina,cornejo de molina,female,female,,,,
+0.9935,7.257162543212618,persona-19531,persona-8200,manuela huachaca,manuela huachaca,huachaca,huachaca,female,female,1864-06-04,,ishua,ishua
+0.9935,7.252951117241022,persona-31401,persona-46874,amalio,amalio,cusi,cusi,male,male,1890-01-29,1882-03-08,umasi,umasi
+0.9935,7.252951117241022,persona-30763,persona-46874,amalio,amalio,cusi,cusi,male,male,1890-07-25,1882-03-08,umasi,umasi
+0.9935,7.245597646599192,persona-40865,persona-41395,manonga,manonga,arias,arias,,,,,,
+0.993,7.146743632868016,persona-32245,persona-37999,marcelina,marcelina,canales,canales,female,female,,,,
+0.993,7.146743632868016,persona-33084,persona-43208,leonidas,leonidas,valenzuela,valenzuela,male,male,,,,
+0.9928,7.114322155175638,persona-1446,persona-2300,maria nieves,maria nieves,sapata,sapata,female,female,,,,
+0.9928,7.114322155175638,persona-34784,persona-35585,maria asuncion,maria asuncion,benavides,benavides,female,female,,,,
+0.9928,7.098380611306617,persona-17238,persona-17246,jose manuel,jose manuel,cáceres,cáceres,male,male,,,,
+0.9925,7.052952568656797,persona-10462,persona-23984,barbaron,barbaron,martines,martines,,,,,,
+0.9924,7.021212750784157,persona-10997,persona-15528,sixto,sixto,mora,mora,male,male,,,,
+0.9922,6.991465407390105,persona-28414,persona-33922,fabiana,fabiana,ayala,ayala,female,female,,,,
+0.9922,6.991465407390105,persona-38497,persona-44256,ubaldo,ubaldo,guillén,guillén,male,male,,,,
+0.992,6.962319061730588,persona-1685,persona-563,theodora,theodora,alarcon,alarcon,female,female,,,,
+0.9913,6.830560147320349,persona-40234,persona-40320,rejina,rejina,barrios,barrios,,,,,,
+0.9913,6.830560147320349,persona-12774,persona-43778,espiritu,espiritu,pomarino,pomarino,,,,,,
+0.9913,6.830560147320349,persona-15554,persona-43778,espiritu,espiritu,pomarino,pomarino,,,,,,
+0.9913,6.830560147320349,persona-12774,persona-15554,espiritu,espiritu,pomarino,pomarino,,,,,,
+0.9913,6.830560147320348,persona-13119,persona-15851,ruperto,ruperto,p perez alvela,p perez alvela,,,,,,
+0.9913,6.824815537980653,persona-31908,persona-44940,augusto,augusto,siancas,siancas,male,male,1886-07-25,,pampamarca,
+0.9913,6.824815537980653,persona-14892,persona-23267,florentina,florentina,sárate,sárate,female,female,,,,
+0.9913,6.824815537980653,persona-30733,persona-44940,augusto,augusto,siancas,siancas,male,male,1890-07-01,,pampamarca,
+0.9908,6.758008080005909,persona-42255,persona-42402,asensia,asensia,yacca,yacca,,,1828-08-09,1831-09-06,chacralla,chacralla
+0.9907,6.731024473769434,persona-26875,persona-34741,asencion,asencion,de la roca,de la roca,,,,,,
+0.9905,6.699284655896794,persona-32827,persona-46567,sofía,sofía,cárdenas,cárdenas,female,female,1899-08-20,,aucará,
+0.9905,6.699284655896794,persona-32699,persona-46567,sofía,sofía,cárdenas,cárdenas,female,female,1901-05-06,,aucará,
+0.9903,6.675437913942426,persona-10561,persona-30725,prudencio r,prudencio r,zotelo,zotelo,male,male,,,,
+0.9902,6.663660746166073,persona-10921,persona-39271,gavina,gavina,acevedo,acevedo,female,female,,,,
+0.9902,6.662588158394536,persona-13774,persona-13778,mariano urvano,mariano urvano,urvano,urvano,male,male,1891-11-17,1891-12-01,,
